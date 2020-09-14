@@ -4,5 +4,6 @@ public class Main {
         System.out.println("New Branch 1");
         System.out.println("Some changes");
         System.out.println("Branch 2");
+        System.out.println("Finished hw 2");
     }
 }
